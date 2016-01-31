@@ -1,4 +1,4 @@
-# is-mkv [![Build Status](https://travis-ci.org/T1st3/is-mkv.svg?branch=master)](https://travis-ci.org/T1st3/is-mkv)
+# is-mkv [![Build Status](https://travis-ci.org/t1st3/is-mkv.svg?branch=master)](https://travis-ci.org/t1st3/is-mkv)
 
 > Check if a Buffer/Uint8Array is a [MKV](https://en.wikipedia.org/wiki/Matroska) video
 
@@ -50,4 +50,4 @@ It only needs the first 39 bytes.
 
 ## License
 
-MIT © [T1st3](http://www.tiste.org)
+MIT © [t1st3](http://www.tiste.org)
