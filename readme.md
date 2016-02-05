@@ -1,4 +1,7 @@
-# is-mkv [![Build Status](https://travis-ci.org/t1st3/is-mkv.svg?branch=master)](https://travis-ci.org/t1st3/is-mkv)
+# is-mkv
+
+[![NPM version](https://img.shields.io/npm/v/is-mkv.svg)](https://www.npmjs.com/package/is-mkv)
+[![Build Status](https://travis-ci.org/t1st3/is-mkv.svg?branch=master)](https://travis-ci.org/t1st3/is-mkv)
 
 > Check if a Buffer/Uint8Array is a [MKV](https://en.wikipedia.org/wiki/Matroska) video
 
