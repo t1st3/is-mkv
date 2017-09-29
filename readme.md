@@ -1,5 +1,7 @@
 # is-mkv
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/t1st3/is-mkv.svg)](https://greenkeeper.io/)
+
 [![NPM version](https://img.shields.io/npm/v/is-mkv.svg)](https://www.npmjs.com/package/is-mkv)
 [![Build Status](https://travis-ci.org/t1st3/is-mkv.svg?branch=master)](https://travis-ci.org/t1st3/is-mkv)
 
