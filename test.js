@@ -1,7 +1,7 @@
 import path from 'path';
 import readChunk from 'read-chunk';
 import test from 'ava';
-import isMkv from './';
+import isMkv from '.';
 
 test('should detect MKV from buffer', t => {
 	t.is(isMkv(readChunk.sync(path.join(__dirname, 'fixture.mkv'), 0, 39)), true);
